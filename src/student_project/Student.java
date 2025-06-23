@@ -8,7 +8,7 @@ public class Student {
     private String grade;
     private long phonenum;
 
-    // Constructor
+    // Constructors
     public Student() {}
 
     // Getters
