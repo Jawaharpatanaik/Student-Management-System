@@ -1,1 +1,6 @@
 jvk 
+Student-Management-System.git
+git remote set-url origin https://github.com/Jawaharpatanaik/Student-Management-System.git
+git branch -M main
+git push -u origin main
+ldba;skbckb
